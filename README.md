@@ -17,7 +17,9 @@ Business). Needless to say, This is our target variable.
 ## How will we accomplish the classification of News Articles?
 
 • We will clean the data (news articles) by performing preprocessing tasks such as removing punctuation,
-tockenization, removing stopwords and lemmatization
+tockenization, removing stopwords and lemmatization.
+
 • We will use NLP techniques like BagOfWords and TF-IDF to convert the content of the articles into vectors.
+
 • We will train different models like Naive Baye's, Decision Tree, Random Forest, K-Nearest Neighbours on
 the vectorized data and compare their performance.
